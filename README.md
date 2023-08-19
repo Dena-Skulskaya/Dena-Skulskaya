@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NucleOs](this pet project will be available later)
 
-- 🌱 I’m currently learning **React Advanced,Docker, node.js**
+- 🌱 I’m currently learning **React Advanced, Docker, node.js**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Sass and about what interests you**
 
