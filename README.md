@@ -25,4 +25,40 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dena-skulskaya&show_icons=true&locale=en" alt="dena-skulskaya" /></p>
 
-
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-36ym">certificates and diplomas</th>
+    <th class="tg-36ym">period of study</th>
+    <th class="tg-36ym">look at</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gytq">Основы HTML & CSS</td>
+    <td class="tg-gytq">10.12.2022 – 14.12.2022</td>
+    <td class="tg-gytq">https://stepik.org/cert/1872564</td>
+  </tr>
+  <tr>
+    <td class="tg-gytq">Тестирование ПО: Postman для тестирования API</td>
+    <td class="tg-gytq">23.09.2022 – 10.10.2022</td>
+    <td class="tg-gytq">https://stepik.org/cert/1707636</td>
+  </tr>
+  <tr>
+    <td class="tg-gytq">Веб-разработка для начинающих: HTML и CSS</td>
+    <td class="tg-gytq">06.02.2022 – 14.12.2022</td>
+    <td class="tg-gytq">https://stepik.org/cert/1872467</td>
+  </tr>
+  <tr>
+    <td class="tg-gytq">Программирование. Разработка сайтов
+(HTML, CSS, JS).</td>
+    <td class="tg-gytq">31.05.2022 – 26.05.2023</td>
+    <td class="tg-gytq"> https://user-images.githubusercontent.com/142508706/263461458-64fbe2d5-322c-47ed-8163-7fe7d10454be.png</td>
+  </tr>
+  <tr>
+    <td class="tg-gytq">Веб-разработчик с нуля до PRO – от Skillbox</td>
+    <td class="tg-gytq">03.04.2022 – 22.01.2023</td>
+    <td class="tg-gytq">https://user-images.githubusercontent.com/142508706/263461666-71d7e937-db8d-4739-836e-97924f8ca04e.png</td>
+  </tr>
+</tbody>
+</table>
